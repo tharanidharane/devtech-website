@@ -31,13 +31,13 @@ export default function AboutSection() {
           <div className="space-y-8">
             <div className="space-y-4">
               <Badge className="bg-orange-100 text-orange-700 hover:bg-orange-200 transform hover:scale-105 transition-all duration-300">
-                About DevTech AI
+                About DevTechAi.Org
               </Badge>
               <h2 className="text-3xl sm:text-4xl font-bold text-gray-900">
                 Pioneering the Future of AI
               </h2>
               <p className="text-xl text-gray-600 leading-relaxed">
-                DevTech AI has been at the forefront of AI innovation, 
+                DevTechAi.Org has been at the forefront of AI innovation, 
                 helping businesses harness the power of artificial intelligence to solve 
                 complex challenges and drive growth.
               </p>

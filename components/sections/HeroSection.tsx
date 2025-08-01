@@ -64,7 +64,7 @@ export default function HeroSection({ onScrollToSection }: HeroSectionProps) {
                 Solutions
               </h1>
               <p className="text-xl text-gray-600 leading-relaxed">
-                DevTech AI develops cutting-edge software that streamlines operations, enhances decision-making, 
+                DevTechAi.Org develops cutting-edge software that streamlines operations, enhances decision-making, 
                 and drives innovation across industries. From machine learning to automation, 
                 we make AI accessible and impactful.
               </p>

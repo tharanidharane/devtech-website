@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'DevTech AI - Intelligent Software Solutions',
+  title: 'DevTechAi.Org - Intelligent Software Solutions',
   description: 'Transform your business with cutting-edge AI software solutions. Machine learning, automation, and intelligent systems for modern enterprises.',
 };
 

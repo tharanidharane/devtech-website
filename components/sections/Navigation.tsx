@@ -31,7 +31,7 @@ export default function Navigation({ activeSection, onScrollToSection }: Navigat
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-2 transform hover:scale-105 transition-transform duration-300">
             <Brain className="h-8 w-8 text-purple-600" />
-            <span className="text-xl font-bold text-gray-900">DevTech AI</span>
+            <span className="text-xl font-bold text-gray-900">DevTechAi.Org</span>
           </div>
           
           {/* Desktop Navigation */}

@@ -9,7 +9,7 @@ const testimonials = [
     name: "Sarah Chen",
     role: "CTO, TechVentures",
     company: "E-commerce",
-    content: "DevTech AI's recommendation engine increased our conversion rates by 340% within the first quarter. Their team's expertise and support were exceptional.",
+    content: "DevTechAi's recommendation engine increased our conversion rates by 340% within the first quarter. Their team's expertise and support were exceptional.",
     rating: 5
   },
   {
@@ -47,7 +47,7 @@ export default function TestimonialsSection() {
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Don't just take our word for it. Here's what industry leaders say about 
-            working with DevTech AI.
+            working with DevTechAi.Org.
           </p>
         </div>
 
